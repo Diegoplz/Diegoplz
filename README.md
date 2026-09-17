@@ -1,4 +1,3 @@
-## Hi there 👋
 #  ¡Hola! Soy Diego Andrés Plaza Pavez
 
 ##  Futuro Desarrollador Web

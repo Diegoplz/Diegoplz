@@ -1,8 +1,8 @@
 #  ¡Hola! Soy Diego Andrés Plaza Pavez
 
-##  Futuro Desarrollador Web
+##  Desarrollador Web
 
-Soy estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente estoy formándome en programación, bases de datos, entornos de desarrollo, lenguaje de marcas y entornos de desarrollo.  
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente estoy formándome en programación, bases de datos, desarrollo web en entorno servidor, lenguaje de marcas, entornos de desarrollo, desarrollo web en entorno servidor y diseño de interfaces.  
 Me encata aprender nuevas tecnologías y crear proyectos que me ayuden a mejorar como desarrollador.
 
 ---
@@ -10,9 +10,9 @@ Me encata aprender nuevas tecnologías y crear proyectos que me ayuden a mejorar
 ##  Sobre mí
 
 -  Estudiante de DAW
--  Aprendiendo Java, JavaScript, SQL y XML
--  Interesado en el desarrollo web y la tecnología
--  Me gusta resolver problemas y crear proyectos prácticos
+-  Aprendiendo Java, Python, PHP, HTML5, CSS, JavaScript y MySQL.
+-  Interesado en el desarrollo y despliegue de aplicaciones web.
+-  Me gusta resolver problemas y crear proyectos prácticos.
 -  Siempre busco seguir aprendiendo
 
 ---
@@ -20,28 +20,30 @@ Me encata aprender nuevas tecnologías y crear proyectos que me ayuden a mejorar
 ##  Tecnologías y herramientas
 
 ### Lenguajes
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![XML](https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Herramientas
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
 ##  Objetivos
 
-- Convertirme en desarrollador Full Stack
+- Trabajar en el sector tecnológico
 - Participar en proyectos reales
 - Mejorar mis habilidades en programación y diseño web
 - Aprender frameworks modernos
-- Trabajar en el sector tecnológico
+
 
 ---
 
